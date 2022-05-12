@@ -4,7 +4,7 @@ public class Task1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int m = scanner.nextInt();
-        //int m = 1;
+        //int m = 1;jykudfjthdjgfh
         String stage;
         switch (m){
             case 12:
